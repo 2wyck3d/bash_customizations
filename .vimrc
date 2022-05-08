@@ -1,3 +1,15 @@
-set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
+set tabstop=4
+set softtabstop=0 
+set expandtab 
+set shiftwidth=4 
+set smarttab
+set autoindent
+set shiftround
+
+set smartcase
 syntax on
+
+set number
+set background=dark
+
 set pastetoggle=<F2>
